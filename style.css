@@ -1,0 +1,70 @@
+.fixed-width{
+    width: 1000px;
+    margin: auto;
+}
+h2{
+    font-size: 30px;
+}
+.name-highlights{
+    color: #e84393;
+}
+body{
+    font-family: 'Poppins', sans-serif;    
+}
+section{
+    height: 400px;
+    width: 1000px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #e84393;
+    color: white;
+    padding: 10px 15px;
+    font-size: 25px;
+    border-radius: 5%;
+    font-weight: 400;
+}
+.top-banner{
+    background-image: url(./img/b1.jpg);
+}
+.second-banner{
+    background-image: url(./img/b2.png);
+}
+.third-banner{
+    margin-top: -33px;
+    background-image: url(./img/b1.jpg);
+}
+.forth-banner{
+    background-image: url(./img/b1.jpg);
+}
+
+.work-section{
+    text-align: center;
+    font-size: 40px;
+    
+}
+.work{
+    text-align: center;
+}
+.work img{
+    width: 220px;
+    height: 100%;
+    margin-left: 10px;
+}
+
+.footer{
+    text-align: center;
+}
+.footer-topic{
+    width: 50%;
+    margin: 0 auto;
+}
+.contact{
+    text-align: center;
+    
+
+}
